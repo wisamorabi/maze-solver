@@ -1,9 +1,12 @@
 <div align="center">
     <img src="readmeResources/maze-solver-logo.svg" alt="Maze" width="150" height="150">
   <h3 align="center">C++ Maze Solver</h3>
+  
+
+[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=3F78A9&logo=cplusplus)](https://www.cplusplus.com)
+[![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual%20Studio&color=5C2D91&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
+  
 A C++ program that takes a maze file as an input and produces a solution using breadth-first search or depth-first search
-<hr>
-<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=3F78A9&logo=cplusplus">
 </div>
 
 

@@ -13,7 +13,7 @@ A C++ program that takes a maze file as an input and produces a solution using b
 
 ## :flight_departure: How To Run
 #### Unix:
-1. `git pull https://github.com/ElixirForge/maze-solver.git` (Must have git installed on your OS) -OR- download the zip file and extract it in the desired directory
+1. `git clone https://github.com/ElixirForge/maze-solver.git` (Must have git installed on your OS) -OR- download the zip file and extract it in the desired directory
 2. Install g++ (Most likely preinstalled with MacOS or your Linux Distribution)
 3. In project directory: `g++ *.cpp -o output`
 4. In project directory: `./output`
